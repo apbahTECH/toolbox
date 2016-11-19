@@ -1,0 +1,10 @@
+﻿Build started 11/19/2016 11:40:16 AM.
+     1>Project "C:\Users\dfair\OneDrive\Documents\apbahTECH\toolbox\toolbox-console\toolbox-console.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\dfair\OneDrive\Documents\apbahTECH\toolbox\Debug\toolbox-console.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib toolbox.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\dfair\OneDrive\Documents\apbahTECH\toolbox\Debug\toolbox-console.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\dfair\OneDrive\Documents\apbahTECH\toolbox\Debug\toolbox-console.lib" /MACHINE:X86 Debug\main.obj
+         toolbox-console.vcxproj -> C:\Users\dfair\OneDrive\Documents\apbahTECH\toolbox\Debug\toolbox-console.exe
+     1>Done Building Project "C:\Users\dfair\OneDrive\Documents\apbahTECH\toolbox\toolbox-console\toolbox-console.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.31
